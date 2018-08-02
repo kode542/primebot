@@ -7,7 +7,7 @@ import sys
 
 api = ''
 
-
+#Prompt the user for the api key instead of setting up the key before the execution
 #api = raw_input('API : ')
 
 starting_amount = int(input('Enter Starting Bet in Shatoshi : ' )) 
